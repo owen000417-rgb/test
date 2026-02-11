@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CustmerCount/CustmerCount.csproj" Id="2441b4f9-e8f0-4593-8915-58c71c004e0b" />
+  <Project Path="CustomerOrders/CustomerOrders.csproj" Id="5c14ee26-a5fa-4e88-be89-acf49e9e1522" />
+  <Project Path="EFCRUD/EFCRUD.csproj" Id="3744ecbd-f2ab-455c-8b34-d9b5e6f87a0f" />
+  <Project Path="Summary/Summary.csproj" Id="6a6f68fe-c606-4c45-8ea3-7931f189aa1f" />
+  <Project Path="SupplierProduct/SupplierProduct.csproj" Id="eb4ab18a-857e-4745-ad9a-35ae7e897762" />
+  <Project Path="test/test.csproj" Id="d8b30164-a0a7-429f-a22e-93e7f20f3a24" />
+</Solution>
